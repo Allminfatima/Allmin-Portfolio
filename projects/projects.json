@@ -1,6 +1,6 @@
 [
     {
-      "name": "Weather Forecasting App,
+      "name": "Weather Forecasting App",
       "desc": "This is a simple weather forecasting app that fetches and displays current weather information for a specified location using the OpenWeatherMap API.",
       "image": "notystackandroid",
       "category": "android",
