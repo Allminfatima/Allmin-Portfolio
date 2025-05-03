@@ -1,12 +1,12 @@
 [
     {
-      "name": "NotyStack Android",
-      "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+      "name": "Weather Forecasting App,
+      "desc": "This is a simple weather forecasting app that fetches and displays current weather information for a specified location using the OpenWeatherMap API.",
       "image": "notystackandroid",
       "category": "android",
       "links": {
-        "view": "https://www.linkedin.com/posts/allmin-fatima_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-        "code": "https://github.com/allmin-fatima/notystack-android"
+        "view": "https://allminweatherforecasting.netlify.app",
+        "code": "https://github.com/Allminfatima/weather-forecasting-app"
       }
     },
     {
